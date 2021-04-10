@@ -4,6 +4,7 @@
 // @version      1
 // @description  Limits interaction with TvTropes, including cutting out most features related to editing and socializing.
 // @author       Goobsguy
+// @grant        none
 // @match        http://tvtropes.org/*
 // ==/UserScript==
 
